@@ -1,0 +1,57 @@
+/*!*************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/css/style.scss ***!
+  \*************************************************************************************************************/
+@charset "UTF-8";
+@font-face {
+  font-family: "Lato";
+  src: url(src/fonts/Lato-Regular..eot);
+  src: local("☺"), url(src/fonts/Lato-Regular..woff) format("woff"), url(src/fonts/Lato-Regular..ttf) format("truetype"), url(src/fonts/Lato-Regular..svg) format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+link {
+  text-decoration: none;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+img, picture, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+ul, ol, h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background-color: red;
+  padding: 0;
+  margin: 0;
+}
+
+button {
+  width: 30px;
+  height: 30px;
+  margin-left: 30px;
+  border: none;
+  border-radius: 0 15px;
+}

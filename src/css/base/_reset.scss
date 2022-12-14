@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+link {
+    text-decoration: none;
+}
+ol, ul {
+    list-style: none;
+}
+img, picture, canvas, svg {
+    display: block;
+    max-width: 100%;
+}
